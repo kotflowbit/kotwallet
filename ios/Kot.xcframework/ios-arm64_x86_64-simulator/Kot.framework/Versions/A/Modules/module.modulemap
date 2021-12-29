@@ -1,0 +1,8 @@
+framework module "Kot" {
+	header "ref.h"
+    header "Kot.objc.h"
+    header "Universe.objc.h"
+    header "Kot.h"
+
+    export *
+}
